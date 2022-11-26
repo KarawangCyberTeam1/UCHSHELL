@@ -374,7 +374,7 @@ div.symex{
   text-align:center;
 }
 .cracksection label{
-  color:aqua;
+  color:#FFD700;
 }
 .cracksection #toright{
   text-align:right;
@@ -418,7 +418,7 @@ div.symex{
   width:10%;
 }
 .footer label{
-  color:aqua;
+  color:#FFD700;
 }
 .footer input[type=text]{
   background:rgba(0,0,0,0.5);
@@ -455,7 +455,7 @@ div.symex{
   width:80%;
   height:400px;
   background:rgba(0,0,0,0.5);
-  color:aqua;
+  color:#FFD700;
   padding:10px;
   margin-top:25px;
   display:block;
@@ -505,7 +505,7 @@ div.symex{
   font-family:'Orbitron';
   outline:none;
   border:none;
-  color:aqua;
+  color:#FFD700;
   padding:3px;
 }
 .reverse label{
