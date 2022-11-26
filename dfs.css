@@ -45,7 +45,7 @@ img{
 }
 div.intros{
   text-align:center;
-  color:aqua;
+  color:#FFD700;
   width:80%;
   font-size:14px;
   margin: 0 auto;
@@ -111,7 +111,7 @@ div.directory{
   color:#fff;
 }
 div.directory a{
-  color:aqua;
+  color:#FFD700;
 }
 div.directory::-webkit-scrollbar-track{
   background: var(--thumbBG);
@@ -216,7 +216,7 @@ div.directory table td{
   color:#fff;
 }
 #fnameshow1{
-  color:aqua;
+  color:#FFD700;
 }
 #sshows{
   text-align:center;
@@ -235,7 +235,7 @@ div.directory table td{
  width:100%;
  padding:2px;
  border-radius:8px;
- color:aqua;
+ color:#FFD700;
  font-family:'Orbitron';
 }
 #buttontoedit button:hover{
@@ -312,7 +312,7 @@ section.symlinkarea button{
   border-radius:5px;
   padding:5px;
   background:rgba(255,255,255,0.5);
-  color:aqua;
+  color:#FFD700;
 }
 section.symlinkarea button:hover{
   background:rgba(0,0,0,1);
@@ -797,7 +797,7 @@ div.symex{
 #unzipping input[type=text]{
   padding:2px;
   font-size:17px;
-  color:aqua;
+  color:#FFD700;
   background:rgba(0,0,0,0.5);
   border:none;
   border-radius:8px;
