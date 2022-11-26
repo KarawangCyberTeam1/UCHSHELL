@@ -235,7 +235,7 @@ div.directory table td{
  width:100%;
  padding:2px;
  border-radius:8px;
- color:#FFD700;
+ color:aqua;
  font-family:'Orbitron';
 }
 #buttontoedit button:hover{
@@ -312,7 +312,7 @@ section.symlinkarea button{
   border-radius:5px;
   padding:5px;
   background:rgba(255,255,255,0.5);
-  color:#FFD700;
+  color:aqua;
 }
 section.symlinkarea button:hover{
   background:rgba(0,0,0,1);
@@ -797,7 +797,7 @@ div.symex{
 #unzipping input[type=text]{
   padding:2px;
   font-size:17px;
-  color:#FFD700;
+  color:aqua;
   background:rgba(0,0,0,0.5);
   border:none;
   border-radius:8px;
