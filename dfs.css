@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
 html{
   --scrollbarBG: #000;
-  --thumbBG: #FFD700;
+  --thumbBG: aqua;
   box-sizing:border-box;
-  background-color:#171502;
+  background-color:black;
   font-family:'Orbitron';
 }
 body::-webkit-scrollbar {
@@ -45,7 +45,7 @@ img{
 }
 div.intros{
   text-align:center;
-  color:#FFD700;
+  color:aqua;
   width:80%;
   font-size:14px;
   margin: 0 auto;
@@ -111,7 +111,7 @@ div.directory{
   color:#fff;
 }
 div.directory a{
-  color:#FFD700;
+  color:aqua;
 }
 div.directory::-webkit-scrollbar-track{
   background: var(--thumbBG);
@@ -216,7 +216,7 @@ div.directory table td{
   color:#fff;
 }
 #fnameshow1{
-  color:#FFD700;
+  color:aqua;
 }
 #sshows{
   text-align:center;
@@ -235,7 +235,7 @@ div.directory table td{
  width:100%;
  padding:2px;
  border-radius:8px;
- color:#FFD700;
+ color:aqua;
  font-family:'Orbitron';
 }
 #buttontoedit button:hover{
@@ -312,7 +312,7 @@ section.symlinkarea button{
   border-radius:5px;
   padding:5px;
   background:rgba(255,255,255,0.5);
-  color:#FFD700;
+  color:aqua;
 }
 section.symlinkarea button:hover{
   background:rgba(0,0,0,1);
@@ -374,7 +374,7 @@ div.symex{
   text-align:center;
 }
 .cracksection label{
-  color:#FFD700;
+  color:aqua;
 }
 .cracksection #toright{
   text-align:right;
@@ -418,7 +418,7 @@ div.symex{
   width:10%;
 }
 .footer label{
-  color:#FFD700;
+  color:aqua;
 }
 .footer input[type=text]{
   background:rgba(0,0,0,0.5);
@@ -455,7 +455,7 @@ div.symex{
   width:80%;
   height:400px;
   background:rgba(0,0,0,0.5);
-  color:#FFD700;
+  color:aqua;
   padding:10px;
   margin-top:25px;
   display:block;
@@ -505,11 +505,11 @@ div.symex{
   font-family:'Orbitron';
   outline:none;
   border:none;
-  color:#FFD700;
+  color:aqua;
   padding:3px;
 }
 .reverse label{
-  color:#FFD700;
+  color:aqua;
 }
 .reverse input[type=submit]{
   padding:4px;
@@ -587,7 +587,7 @@ div.symex{
   color:#fff;
 }
 .mass label{
-  color:#FFD700;
+  color:aqua;
 }
 .databases{
   width:90%;
