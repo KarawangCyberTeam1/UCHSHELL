@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
 html{
   --scrollbarBG: #000;
-  --thumbBG: aqua;
+  --thumbBG: #FFD700;
   box-sizing:border-box;
-  background-color:black;
+  background-color:#171502;
   font-family:'Orbitron';
 }
 body::-webkit-scrollbar {
