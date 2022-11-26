@@ -509,7 +509,7 @@ div.symex{
   padding:3px;
 }
 .reverse label{
-  color:aqua;
+  color:#FFD700;
 }
 .reverse input[type=submit]{
   padding:4px;
@@ -587,7 +587,7 @@ div.symex{
   color:#fff;
 }
 .mass label{
-  color:aqua;
+  color:#FFD700;
 }
 .databases{
   width:90%;
