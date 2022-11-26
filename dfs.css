@@ -111,7 +111,7 @@ div.directory{
   color:#fff;
 }
 div.directory a{
-  color:#FFD700;
+  color:white;
 }
 div.directory::-webkit-scrollbar-track{
   background: var(--thumbBG);
@@ -312,7 +312,7 @@ section.symlinkarea button{
   border-radius:5px;
   padding:5px;
   background:rgba(255,255,255,0.5);
-  color:#FFD700;
+  color:white;
 }
 section.symlinkarea button:hover{
   background:rgba(0,0,0,1);
