@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
 html{
   --scrollbarBG: #000;
-  --thumbBG: aqua;
+  --thumbBG: #FFD700;
   box-sizing:border-box;
-  background-color:black;
+  background-color:#171502;
   font-family:'Orbitron';
 }
 body::-webkit-scrollbar {
@@ -45,7 +45,7 @@ img{
 }
 div.intros{
   text-align:center;
-  color:aqua;
+  color:#FFD700;
   width:80%;
   font-size:14px;
   margin: 0 auto;
@@ -111,7 +111,7 @@ div.directory{
   color:#fff;
 }
 div.directory a{
-  color:white;
+  color:#FFD700;
 }
 div.directory::-webkit-scrollbar-track{
   background: var(--thumbBG);
@@ -216,7 +216,7 @@ div.directory table td{
   color:#fff;
 }
 #fnameshow1{
-  color:aqua;
+  color:#FFD700;
 }
 #sshows{
   text-align:center;
@@ -235,7 +235,7 @@ div.directory table td{
  width:100%;
  padding:2px;
  border-radius:8px;
- color:aqua;
+ color:#FFD700;
  font-family:'Orbitron';
 }
 #buttontoedit button:hover{
