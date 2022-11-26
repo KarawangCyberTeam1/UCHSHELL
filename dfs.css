@@ -216,7 +216,7 @@ div.directory table td{
   color:#fff;
 }
 #fnameshow1{
-  color:#FFD700;
+  color:aqua;
 }
 #sshows{
   text-align:center;
@@ -235,7 +235,7 @@ div.directory table td{
  width:100%;
  padding:2px;
  border-radius:8px;
- color:#FFD700;
+ color:aqua;
  font-family:'Orbitron';
 }
 #buttontoedit button:hover{
